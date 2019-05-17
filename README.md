@@ -11,3 +11,6 @@ Training on the CIFAR10 dataset was done over 300 epochs with an initial learnin
 The learning rate was slightly modified over the training period by implementing a 'scheduler' that lowered the learning rate at specific milestones (epoch 150 and epoch 225). This improved the accuracy results.
 
 For more details about the implementation, as well as the results of the training on both datasets, read the included report in our GitHub repo.
+
+The paper can be accessed by using the following link:
+https://arxiv.org/pdf/1703.09844.pdf
