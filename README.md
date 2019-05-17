@@ -12,5 +12,4 @@ The learning rate was slightly modified over the training period by implementing
 
 For more details about the implementation, as well as the results of the training on both datasets, read the included report in our GitHub repo.
 
-The paper can be accessed by using the following link:
-https://arxiv.org/pdf/1703.09844.pdf
+The weights of our trained model can be downloaded from: https://drive.google.com/file/d/1Pl5-9QQThm9FDuexYyopgGs2VPI1tMcF/view?usp=sharing
